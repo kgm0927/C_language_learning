@@ -1,0 +1,22 @@
+﻿  3-11.cpp
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(11,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(11,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(11,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char **'입니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(11,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char **' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(11,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'char ***'입니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(11,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char ***' 형식의 인수 3과(와) 충돌합니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(12,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(12,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(12,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char **'입니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(12,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char **' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(12,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'char ***'입니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(12,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char ***' 형식의 인수 3과(와) 충돌합니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(14,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(14,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(14,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'char **'입니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(14,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char **' 형식의 인수 3과(와) 충돌합니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(15,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(15,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(15,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'char **'입니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-11\3-11.cpp(15,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char **' 형식의 인수 3과(와) 충돌합니다.
+  3-11.vcxproj -> C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\x64\Debug\3-11.exe

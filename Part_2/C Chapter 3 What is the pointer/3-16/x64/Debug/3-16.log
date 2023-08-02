@@ -1,0 +1,7 @@
+﻿  3-16.cpp
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-16\3-16.cpp(11,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'void (__cdecl *)(int,int)'입니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-16\3-16.cpp(11,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) void (__cdecl *)(int,int)' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-16\3-16.cpp(12,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'void (__cdecl *)(int,int)'입니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-16\3-16.cpp(12,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) void (__cdecl *)(int,int)' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\3-16\3-16.cpp(15,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  3-16.vcxproj -> C:\Users\kgm09\OneDrive\문서\GitHub\C_language_learning\Part_2\C Chapter 3 What is the pointer\x64\Debug\3-16.exe

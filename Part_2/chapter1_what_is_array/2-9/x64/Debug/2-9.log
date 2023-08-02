@@ -1,0 +1,12 @@
+﻿  2-9.cpp
+C:\Users\kgm09\source\repos\C chapter5 array\2-9\2-9.cpp(5,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\kgm09\source\repos\C chapter5 array\2-9\2-9.cpp(5,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\kgm09\source\repos\C chapter5 array\2-9\2-9.cpp(5,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\kgm09\source\repos\C chapter5 array\2-9\2-9.cpp(5,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\kgm09\source\repos\C chapter5 array\2-9\2-9.cpp(5,45): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\kgm09\source\repos\C chapter5 array\2-9\2-9.cpp(5,45): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 3개가 제공되었습니다.
+C:\Users\kgm09\source\repos\C chapter5 array\2-9\2-9.cpp(6,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\kgm09\source\repos\C chapter5 array\2-9\2-9.cpp(6,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\kgm09\source\repos\C chapter5 array\2-9\2-9.cpp(6,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\kgm09\source\repos\C chapter5 array\2-9\2-9.cpp(6,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+  2-9.vcxproj -> C:\Users\kgm09\source\repos\C chapter5 array\x64\Debug\2-9.exe

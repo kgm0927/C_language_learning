@@ -1,0 +1,11 @@
+﻿  4-2.cpp
+C:\Users\kgm09\source\repos\C chapter 4 pointer and array\4-2\4-2.cpp(8,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\kgm09\source\repos\C chapter 4 pointer and array\4-2\4-2.cpp(8,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 2개가 제공되었습니다.
+C:\Users\kgm09\source\repos\C chapter 4 pointer and array\4-2\4-2.cpp(8,9): message : 누락된 variadic 인수 3이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\kgm09\source\repos\C chapter 4 pointer and array\4-2\4-2.cpp(12,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\kgm09\source\repos\C chapter 4 pointer and array\4-2\4-2.cpp(12,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\kgm09\source\repos\C chapter 4 pointer and array\4-2\4-2.cpp(12,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\kgm09\source\repos\C chapter 4 pointer and array\4-2\4-2.cpp(12,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\kgm09\source\repos\C chapter 4 pointer and array\4-2\4-2.cpp(12,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'size_t'입니다.
+C:\Users\kgm09\source\repos\C chapter 4 pointer and array\4-2\4-2.cpp(12,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  4-2.vcxproj -> C:\Users\kgm09\source\repos\C chapter 4 pointer and array\x64\Debug\4-2.exe
